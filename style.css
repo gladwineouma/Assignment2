@@ -1,9 +1,96 @@
-.form{
 
-    background-color: plum;
-    border: solid 1px grey;
-    width: 40%;
-    padding: 20px;
-    border-radius: 10px;
-    margin: 0 auto;
-    }
+        #signup{
+            font-family: arial;
+            font-weight: bolder;
+            text-align: center;
+        }
+      
+      
+      .heading{
+        font-family: arial;
+        text-align: center;
+
+       }
+       
+       body{
+        background-color: plum;
+        margin: auto;
+        width: 30%;
+        border: solid;
+
+
+       }
+
+       /* .image{
+        flex-direction: right;
+        
+       }
+         */
+
+       
+       
+       .form{
+        border: solid 1px grey;
+        width: 40%;
+        padding: 20px;
+        border-radius: 10px;
+        margin: 0 auto;
+        background-color: ghostwhite;
+        font-family: arial;
+        /* max-width: 300px; */
+        display: flex;
+        margin-left:100px;
+        }
+        
+
+        .form checkbox{
+
+            margin: 0 auto;
+        }
+
+        .submit-button button{
+          background-color: none;
+          border: none;
+          background-color:purple;
+          width: 80%;
+          color: white;
+          padding: 2px;
+          border-radius: 5px;
+          cursor: pointer;
+          
+        }
+
+        .image img{
+          /* float: right; */
+          /* margin-right: 10px; */
+          height: 20%;
+          
+         
+
+        }
+
+
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+        

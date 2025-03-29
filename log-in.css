@@ -1,0 +1,56 @@
+body{
+    background-color: plum;
+    margin: auto;
+    width: 30%;
+    border: solid;
+   }
+
+    .form{
+        border: solid 1px grey;
+        width: 40%;
+        padding: 20px;
+        border-radius: 10px;
+        margin: 0 auto;
+        background-color:ghostwhite;
+        font-family: arial;
+        display: flex;
+        }
+        
+        #heading{
+            font-family: arial;
+            text-align: center;}
+
+            #log-in{
+                font-family: arial;
+            text-align: center;}
+
+            .submit-button button{
+                background-color: none;
+                border: none;
+                background-color:purple;
+                width: 80%;
+                color: white;
+                padding: 2px;
+                border-radius: 5px;
+                cursor: pointer;
+                
+              }
+
+              #forgot password{
+
+                border: none;
+              }
+
+              .image img{
+
+                
+                display: flex;
+                width: 50%;
+                max-width: 300%;
+                margin-left: 75%;
+                /* margin-right:10px; */
+                max-height:800px;
+                margin-top: -80%;
+              }
+            
+    
